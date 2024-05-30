@@ -12,7 +12,7 @@
 
 ### Overview
 
-This folder contains the data, Stata code, and python code required to replicate the analyses in the "Media Slant and Public Policy Views" paper for the 2024 AEA Papers and Proceedings.
+This folder contains the data, Stata code, and python code required to replicate the analyses in the ["Media Slant and Public Policy Views"](https://www.aeaweb.org/articles?id=10.1257/pandp.20241005) paper for the 2024 AEA Papers and Proceedings.
 
 #### Contents:
 - `00_programs/`: Stata ado files
