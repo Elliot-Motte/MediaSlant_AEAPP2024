@@ -1,0 +1,9 @@
+1) Is the segment about immigration?
+	a) Yes, definitely
+	b) No, definitely not
+	x) Not sure
+
+2) Broadly speaking, is the segment for or against stronger immigration restrictions? 
+	a) For stronger immigration restrictions
+	b) Against stronger immigration restrictions
+	x) Not sure/Not clear

@@ -1,0 +1,9 @@
+1) Is the segment about gun control?
+	a) Yes, definitely
+	b) No, definitely not
+	x) Not sure
+
+2) Broadly speaking, is the segment for or against stronger gun control? 
+	a) For stronger gun control
+	b) Against stronger gun control
+	x) Not sure/Not clear

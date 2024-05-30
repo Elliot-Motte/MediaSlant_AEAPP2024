@@ -1,0 +1,9 @@
+1) Is the segment about climate change or global warming?
+	a) Yes, definitely
+	b) No, definitely not
+	x) Not sure
+
+2) Broadly speaking, is the segment for or against stronger climate change policy? 
+	a) For stronger climate change policy
+	b) Against stronger climate change policy
+	x) Not sure/Not clear

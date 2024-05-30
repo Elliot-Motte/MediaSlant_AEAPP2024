@@ -1,0 +1,24 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{8}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}&\multicolumn{1}{c}{(7)}&\multicolumn{1}{c}{(8)}\\
+                    &\multicolumn{1}{c}{\shortstack{Environment \\ vs jobs}}&\multicolumn{1}{c}{\shortstack{Climate \\ change \\ concerns}}&\multicolumn{1}{c}{\shortstack{Increase \\ border \\ security ($\times$-1)}}&\multicolumn{1}{c}{\shortstack{Legalize \\ immigrants}}&\multicolumn{1}{c}{\shortstack{Ban \\ assault \\ weapons}}&\multicolumn{1}{c}{\shortstack{Ease \\ concealed-carry \\ permits}}&\multicolumn{1}{c}{\shortstack{Ban \\ abortions \\ after 20th week ($\times$-1)}}&\multicolumn{1}{c}{\shortstack{Always \\ allow \\ abortions}}\\
+\midrule
+Fox News rating (std)&     -0.0026         &     -0.0129\sym{***}&     -0.0036\sym{***}&     -0.0056\sym{***}&     -0.0097\sym{***}&     -0.0065\sym{***}&     -0.0030\sym{**} &     -0.0043\sym{***}\\
+                    &     (0.004)         &     (0.004)         &     (0.001)         &     (0.002)         &     (0.001)         &     (0.001)         &     (0.001)         &     (0.002)         \\
+\addlinespace
+MSNBC rating (std)  &      0.0005         &      0.0034         &      0.0027\sym{**} &      0.0041\sym{***}&      0.0085\sym{***}&      0.0069\sym{***}&      0.0051\sym{***}&      0.0090\sym{***}\\
+                    &     (0.003)         &     (0.004)         &     (0.001)         &     (0.001)         &     (0.002)         &     (0.002)         &     (0.002)         &     (0.002)         \\
+\addlinespace
+Respondent controls &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         \\
+\addlinespace
+State$\times$ Year FEs &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         \\
+\midrule
+Observations        &     153,461         &     124,599         &     289,794         &     289,810         &     228,591         &     228,745         &     216,741         &     216,889         \\
+Number of counties  &       2,880         &       2,808         &       2,924         &       2,924         &       2,874         &       2,874         &       2,867         &       2,866         \\
+R$^2$               &        0.27         &        0.44         &        0.19         &        0.22         &        0.25         &        0.19         &        0.17         &        0.28         \\
+Mean dep. var.      &        3.03         &        3.59         &        0.44         &        0.54         &        0.67         &        0.64         &        0.38         &        0.61         \\
+\bottomrule
+\end{tabular}
+}

@@ -1,0 +1,10 @@
+1) Is the segment about abortion?
+	a) Yes, definitely
+	b) No, definitely not
+	x) Not sure
+
+2) Broadly speaking, is the segment for or against stronger abortion rights? 
+	a) For stronger abortion rights
+	b) Against stronger abortion rights
+	x) Not sure/Not clear
+
